@@ -29,7 +29,7 @@ function App() {
             <About></About>
           </Route>
           <Route path="*">
-            <About></About>
+            <Home></Home>
           </Route>
         </Switch>
       </BrowserRouter>
